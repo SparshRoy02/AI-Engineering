@@ -1,4 +1,4 @@
-# Day 1 - Install & Configure Ollama
+# 01 - Install & Configure Ollama
 ---
 
 ## What is Ollama?
